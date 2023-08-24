@@ -20,6 +20,7 @@ li {
   font-size: 16px;
   font-weight: 100;
   line-height: 19px;
+  text-transform: capitalize;
 }
 .weather-app {
   padding: 20px;
@@ -41,11 +42,10 @@ li {
 .weather-temperature .temperature {
   line-height: 1;
   color: rgb(25, 25, 25);
-  font-size: 55px;
+  font-size: 64px;
   font-weight: 400;
 }
 .weather-temperature .units {
   position: relative;
   font-size: 16px;
-  top: -34px;
 }
